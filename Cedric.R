@@ -3,4 +3,7 @@ n<-100
 sum <- n*(n+1)/2
 sumTotal
 
-qweq
+#test r
+
+message <- "hello Test"
+message
